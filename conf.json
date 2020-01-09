@@ -2,7 +2,7 @@
   "port": 8091,
   "swaggerOptions": {
     "url":
-      "http://10.139.9.170:8083/api-docs.json",
+      "你的接口文档地址",
     "outputPath": "./routes",
     "blacklist": []
   },
